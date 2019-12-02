@@ -1,2 +1,2 @@
 # music-taste
-Uses Spotify API to obtain user's top 50 tracks and analyzes them
+A web app using Spotify API to obtain and analyze a user's top 50 tracks.
