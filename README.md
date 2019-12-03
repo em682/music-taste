@@ -1,4 +1,17 @@
-# music-taste
-Using Spotify API and Spotipy to obtain and analyze a user's top 50 tracks.
+# My Music Taste
+Collecting data from the Spotify Web API using Spotipy and analyzing a user's top 50 tracks.
 
-<div class="infogram-embed" data-id="_/0Y5qf5wSufQylqBRDhJR" data-type="interactive" data-title="Music Taste"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/00be5752-9151-4d8e-8695-8a442803d394" style="color:#989898!important;text-decoration:none!important;" target="_blank">Music Taste</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+https://infogram.com/music-taste-1h8n6m1llv9m6xo?live
+
+## Motivation
+
+## Tools Used
+
+Spotify API
+Python Libraries
+  - pandas
+  - spotipy
+Infogram(data visualization)
+
+## Credits
