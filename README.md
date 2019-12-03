@@ -8,10 +8,11 @@ https://infogram.com/music-taste-1h8n6m1llv9m6xo?live
 
 ## Tools Used
 
-Spotify API
-Python Libraries
-  - pandas
-  - spotipy
-Infogram(data visualization)
+  Spotify API
+  Python Libraries
+    - pandas
+    - spotipy
+  Infogram(data visualization)
 
 ## Credits
+https://github.com/tgel0/spotify-data
