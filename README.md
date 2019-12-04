@@ -3,9 +3,9 @@ Collecting data from the Spotify Web API using Spotipy and analyzing a user's to
 
 https://infogram.com/music-taste-1h8n6m1llv9m6xo?live
 
-![page-1.png]
+![](page-1.png)
 
-![page-2.png]
+![](page-2.png)
 
 ## Motivation
 
@@ -24,3 +24,5 @@ Learn more javascript to create interactive webapp. Will also need to figure out
 
 ## Credits
 https://github.com/tgel0/spotify-data
+https://spotipy.readthedocs.io/en/latest/
+https://github.com/plamere/spotipy/tree/master/examples
