@@ -3,9 +3,9 @@ Collecting data from the Spotify Web API using Spotipy and analyzing a user's to
 
 https://infogram.com/music-taste-1h8n6m1llv9m6xo?live
 
-![](page-1.png)
+![](images/page-1.png)
 
-![](page-2.png)
+![](images/page-2.png)
 
 ## Motivation
 
