@@ -1,6 +1,7 @@
 # My Music Taste
 Collecting data from the Spotify Web API using Spotipy and analyzing a user's top 50 tracks.
-<Spotipy is a lightweight Python library for the Spotify Web API. With Spotipy you get full access to all of the music data provided by the Spotify platform.
+
+> Spotipy is a lightweight Python library for the Spotify Web API. With Spotipy you get full access to all of the music data provided by the Spotify platform.
 
 https://infogram.com/music-taste-1h8n6m1llv9m6xo?live
 
@@ -14,9 +15,7 @@ https://infogram.com/music-taste-1h8n6m1llv9m6xo?live
 ## Tools Used
 
   * Spotify API
-  * Python Libraries
-    ..* pandas
-    ..* spotipy
+  * Python Libraries (spotipy, pandas)
   * Infogram(data visualization)
 
 ## Future Plans
