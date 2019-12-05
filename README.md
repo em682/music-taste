@@ -22,7 +22,7 @@ https://infogram.com/music-taste-1h8n6m1llv9m6xo?live
 Learn more javascript to create interactive webapp. Will also need to figure out Spotify authorization for different users.
 
 ## Credits
-https://github.com/tgel0/spotify-data
-https://spotipy.readthedocs.io/en/latest/
-https://github.com/plamere/spotipy/tree/master/examples
-https://developer.spotify.com/documentation/
+* https://github.com/tgel0/spotify-data
+* https://spotipy.readthedocs.io/en/latest/
+* https://github.com/plamere/spotipy/tree/master/examples
+* https://developer.spotify.com/documentation/
