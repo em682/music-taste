@@ -25,3 +25,4 @@ Learn more javascript to create interactive webapp. Will also need to figure out
 https://github.com/tgel0/spotify-data
 https://spotipy.readthedocs.io/en/latest/
 https://github.com/plamere/spotipy/tree/master/examples
+https://developer.spotify.com/documentation/
